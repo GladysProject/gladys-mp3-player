@@ -1,0 +1,13 @@
+{
+  "name": "gladys-mp3-player",
+  "version": "0.1.0",
+  "description": "Gladys MP3 Player",
+  "main": "index.js",
+  "author": "Pierre-Gilles Leymarie",
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {
+    "player": "^0.6.1",
+    "recursive-readdir": "^2.2.1",
+    "taglib": "^0.8.1"
+  }
+}
